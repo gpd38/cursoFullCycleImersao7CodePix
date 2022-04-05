@@ -1,5 +1,5 @@
 # Curso FullCycle Imersao7 - CodePix
-Nesta imersão iremos desenvolvolver uma aplicação moderna e escalável utilizando microsserviços.
+Nesta imersão iremos desenvolver uma aplicação moderna e escalável utilizando microsserviços.
 
 ### Aulas
 - [04/04 - Full Cycle, estudo de caso e microsserviços](https://youtu.be/3Zzky3X3NH4)
