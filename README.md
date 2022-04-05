@@ -3,7 +3,7 @@ Nesta imersão iremos desenvolver uma aplicação moderna e escalável utilizand
 
 ### Aulas
 - [04/04 - Full Cycle, estudo de caso e microsserviços](https://youtu.be/3Zzky3X3NH4)
-- [05/04 - gRPC e o abismo entre devs e empresas](#)
+- [05/04 - gRPC e o abismo entre devs e empresas](https://youtu.be/DP9zfx-7ChA)
 - [06/04 - Apache Kafka e sua exigência no mercado](#)
 - [07/04 - Nest.js: Produtividade na era dos microsserviços](#)
 - [08/04 - Next.js: A revolução no frontend que foi adotada pelas gigantes](#)
