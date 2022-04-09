@@ -1,6 +1,8 @@
 # Curso FullCycle Imersao7 - CodePix
 Nesta imersão iremos desenvolver uma aplicação moderna e escalável utilizando microsserviços.
 
+[Imersao FullStack FullCycle](https://imersao.fullcycle.com.br/evento/)
+
 ### Aulas
 - [04/04 - Full Cycle, estudo de caso e microsserviços](https://youtu.be/3Zzky3X3NH4)
 - [05/04 - gRPC e o abismo entre devs e empresas](https://youtu.be/DP9zfx-7ChA)
