@@ -7,7 +7,7 @@ Nesta imersão iremos desenvolver uma aplicação moderna e escalável utilizand
 - [06/04 - Apache Kafka e sua exigência no mercado](https://youtu.be/9y6PInSbswI)
 - [07/04 - Nest.js: Produtividade na era dos microsserviços](https://youtu.be/hCCoFxykjEc)
 - [08/04 - Next.js: A revolução no frontend que foi adotada pelas gigantes](https://youtu.be/gxrz0zIDJfg)
-- [09/04 - DevOps e Kubernetes: O portal de entrada em grandes corporações](#)
+- [09/04 - DevOps e Kubernetes: O portal de entrada em grandes corporações](https://youtu.be/uKUel2lt1o4)
 
 ### Lives
 - [04/04 - O que você precisa saber para trabalhar no Mercado Livre: Juniors, Plenos e Seniors](https://youtu.be/p95VYdLmbHY)
