@@ -18,7 +18,7 @@ Nesta imersão iremos desenvolver uma aplicação moderna e escalável utilizand
 - [11/04 - Observabilidade com Elastic, Prometheus e Grafana + Abertura das Matrículas](#)
 
 ### Desafios
-- [Desafio 01](#)
+- [Desafio 01](https://hub.docker.com/r/gpd38/codeeducation)
 - [Desafio 02](#)
 - [Desafio 03](#)
 
