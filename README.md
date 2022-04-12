@@ -17,12 +17,11 @@ Nesta imersão iremos desenvolver uma aplicação moderna e escalável utilizand
 - [06/04 - Prisma: A revolução para se trabalhar com banco de dados](https://youtu.be/C8Oc31uk2Hw)
 - [07/04 - Programação Reativa: 120k requests por minuto no Mercado Livre na prática](https://youtu.be/7DgcCNn9mA8)
 - [08/04 - Entendendo event-driven Architecture](https://youtu.be/DTEZFGBm1Ho)
-- [11/04 - Observabilidade com Elastic, Prometheus e Grafana + Abertura das Matrículas](#)
+- [11/04 - Observabilidade com Elastic, Prometheus e Grafana + Abertura das Matrículas](https://youtu.be/MdkkPYZD86Y)
 
 ### Desafios
 - [Desafio 01](https://hub.docker.com/r/gpd38/codeeducation)
-- [Desafio 02](#)
-- [Desafio 03](#)
+- [Desafio 02](https://github.com/gpd38/cursoFullCycleImersao7CodePix/tree/main/desafio02)
 
 ### Comunidade
 [Discord](https://discord.com/invite/NRmPwv44RW)
